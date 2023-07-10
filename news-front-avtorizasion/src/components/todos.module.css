@@ -1,0 +1,31 @@
+.news img {
+    width: 150px;
+    margin-top: 30px;
+}
+form {
+    margin-top: 15px;
+}
+form input {
+    margin-bottom: 15px;
+}
+.comit {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.comit button {
+    border: none;
+    background-color: blue;
+    color: rgb(240, 245, 240);
+    cursor: pointer;
+}
+
+.button button{
+border: none;
+color: red;
+background-color: transparent;
+cursor: pointer;
+}
+.button {
+    color: green;
+}

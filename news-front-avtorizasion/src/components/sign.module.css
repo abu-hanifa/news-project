@@ -1,0 +1,31 @@
+.form {
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+.sign {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(42, 110, 237);
+    width: 200px;
+    align-items: center;
+    height: 150px;
+    justify-content: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(25, 5, 155)
+    
+}
+.sign input {
+width: 150px;
+margin-bottom: 15px;
+border-radius: 20px;
+border: none;
+box-sizing: border-box;
+padding-left: 5px;
+}
+.sign button {
+    border-radius: 20px;
+    border: none;
+}

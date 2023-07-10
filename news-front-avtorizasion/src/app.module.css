@@ -1,0 +1,45 @@
+
+.link {
+    margin-left: 15px;
+    
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    /* background-image: url("https://i.ibb.co/PzYsKW6/1619634813-1-phonoteka-org-p-fon-dlya-novostnogo-saita-2.jpg"); */
+    height: 70px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px rgb(15, 15, 15);
+    
+  
+    
+    
+}
+.men {
+    margin-left: 15px;
+    color: aliceblue;
+}
+.menu img {
+    width: 40px;
+   
+    
+}
+
+body {
+   background-image: url("https://i.ibb.co/2cXX3dF/1619634851-7-phonoteka-org-p-fon-dlya-novostnogo-saita-9.jpg");
+    color: rgb(240, 10, 10);
+   
+}
+header img {
+    width: 40px;
+}
+.exit button{
+border: none;
+background-color: transparent;
+color: aliceblue;
+font-size: 7px;
+cursor: pointer;
+margin-bottom: 15px;
+}
